@@ -1,13 +1,7 @@
-🍔 Descripción de la App Web – Tu Hamburguesería Online
+🍔 Descripción de la App Web – Proyecto Frontend de Hamburguesería
 
-Nuestra aplicación web te ofrece una experiencia rápida, simple y deliciosa para explorar todo lo que nuestra hamburguesería tiene para ofrecer. Desde cualquier dispositivo podés:
+Este es un proyecto web que desarrollé enfocándome en ofrecer una experiencia moderna, fluida y totalmente interactiva para una hamburguesería. La aplicación permite a los usuarios navegar cómodamente por el menú, visualizar precios actualizados y descubrir ofertas destacadas. Cada producto cuenta con una descripción completa, imágenes y detalles personalizados para mejorar la experiencia de compra.
 
-Ver el menú completo con todas nuestras hamburguesas, acompañamientos y bebidas, cada uno con su precio actualizado.
+Además, implementé un sistema intuitivo de armado de pedidos, donde el cliente puede seleccionar su hamburguesa favorita, agregar extras, elegir acompañamientos y preparar su pedido antes de enviarlo.
 
-Descubrir ofertas exclusivas, combos especiales y promociones vigentes.
-
-Acceder a una descripción detallada de cada producto: ingredientes, tamaño, puntos de cocción y opciones personalizadas.
-
-Preparar tu pedido en pocos pasos: elegí tus productos, personalizalos a gusto y añadilos al carrito antes de confirmar tu compra.
-
-La app está pensada para que disfrutes de una navegación fluida y práctica, logrando que pedir tu hamburguesa favorita sea tan fácil como sabrosa.
+El diseño está pensado para ser atractivo, responsivo y fácil de usar, optimizado tanto para dispositivos móviles como para computadoras. Este proyecto refleja mis habilidades en desarrollo frontend, creación de interfaces limpias y funcionales, y enfoque en la experiencia del usuario.

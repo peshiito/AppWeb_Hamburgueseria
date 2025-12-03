@@ -1,0 +1,37 @@
+[
+  {
+    "id": 1,
+    "nombre": "Clásica Doble",
+    "descripcion": "Doble medallón de carne, queso cheddar, lechuga, tomate y salsa especial.",
+    "precio": 4500,
+    "imagen": "data/productos_img/Clasica_Doble.png"
+  },
+  {
+    "id": 2,
+    "nombre": "BBQ Smoke",
+    "descripcion": "Medallón ahumado con salsa barbacoa, cebolla caramelizada, cheddar y panceta crocante.",
+    "precio": 5200,
+    "imagen": "data/productos_img/Bbq-Smoke.png"
+  },
+  {
+    "id": 3,
+    "nombre": "Cheese Lover",
+    "descripcion": "Hamburguesa con triple queso: cheddar, mozzarella y provolone.",
+    "precio": 4800,
+    "imagen": "data/productos_img/Cheess_Lover.png"
+  },
+  {
+    "id": 4,
+    "nombre": "Picante Norteño",
+    "descripcion": "Hamburguesa picante con jalapeños, salsa especial y queso pepper jack.",
+    "precio": 5000,
+    "imagen": "data/productos_img/Picante_Norteno.png"
+  },
+  {
+    "id": 5,
+    "nombre": "Veggie Fresh",
+    "descripcion": "Medallón vegetal de garbanzo con vegetales frescos y salsa de yogur.",
+    "precio": 4300,
+    "imagen": "data/productos_img/Veggie_Fresh.png"
+  }
+]
